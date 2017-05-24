@@ -1,0 +1,47 @@
+body{
+  font-family: Helvetica;
+  background-color:rgb(244, 248, 249);
+  border: 2px solid;
+  border-radius: 10px;
+  border-color: rgb(225, 232, 237);
+  padding: 20px;
+}
+
+.main{
+  background-color:rgb(255, 255, 255);
+}
+
+.footer {
+color: rgb(105, 120, 130);
+font-size: 25px;
+padding: 5px; 
+}
+
+.time {
+  font-size: 25px;
+  color: rgb(105, 120, 130);
+  }
+
+.text{
+  font-size: 25px;
+}
+
+.header{
+  font-size: 25px;
+  display: inline-block;;
+}
+
+#username{
+  color: rgb(104, 109, 129);
+}
+
+.button{
+  border: 2px solid;
+  border-radius: 10px;
+  border-color: rgb(85, 172, 238);
+  color: rgb(85, 172, 238);
+  float:right;
+  width: 160px;
+  height: 60px;
+  font-size: 25px;
+}
